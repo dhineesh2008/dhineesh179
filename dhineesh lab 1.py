@@ -80,7 +80,7 @@ b=float(input("enter second number:"))
 c=float(input("enter third number:"))
 
 average=(a+b+c)/3
-print("average=",average)'''
+print("average=",average)
 
 
 #4)
@@ -154,5 +154,5 @@ print(f"The last 2 digits of {num} are {last_two_digits}")
 num = 8523
 # Using integer division (//) removes the last two digits
 remaining_digits = num // 100
-print(f"After removing the last 2 digits, we get: {remaining_digits}")
+print(f"After removing the last 2 digits, we get: {remaining_digits}")'''
 
