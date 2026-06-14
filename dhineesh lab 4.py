@@ -1,4 +1,4 @@
-#increment
+'''#increment
 
 i=1
 while i<=5:
@@ -113,4 +113,4 @@ print(b)
 if a==b:
     print ("palindrome")
 else:
-    print ("not a palindrome")
+    print ("not a palindrome")''''
